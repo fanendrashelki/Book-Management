@@ -32,16 +32,22 @@ git clone https://github.com/fanendrashelki/Book-Management.git
   ``
 
 - Install frontend dependencies:
-        ``
-        npm install
-
-        ``
+  
+   ``
+  npm install
+   ``
 - Install react-hot-toast for toast notifications:
-       
-        ``
-        npm install react-hot-toast
 
-        ``
+   ``
+    npm install react-hot-toast
+
+   ``
+
+  - Install axios for making HTTP requests:
+ 
+    ``
+    npm install axios
+    ``
 
 
 
