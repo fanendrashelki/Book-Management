@@ -20,22 +20,22 @@ git clone https://github.com/fanendrashelki/Book-Management.git
   npm install
   ``
 
-  - Install nodemon for automatic server restarts:
+- Install nodemon for automatic server restarts:
     ``
     npm install nodemon --save-dev
     ``
-    - Navigate to the client directory:
+- Navigate to the client directory:
 
-      ``
-      cd ../client
-      ``
+   ``
+  cd ../client
+  ``
 
-      - Install frontend dependencies:
+- Install frontend dependencies:
         ``
         npm install
 
         ``
-        - Install react-hot-toast for toast notifications:
+- Install react-hot-toast for toast notifications:
        
         ``
         npm install react-hot-toast
