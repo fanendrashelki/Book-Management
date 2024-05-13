@@ -20,7 +20,8 @@ git clone https://github.com/fanendrashelki/Book-Management.git
   npm install
   ``
 
-- Install nodemon for automatic server restarts:
+- Install nodemon for automatic server restart
+  
     ``
     npm install nodemon --save-dev
     ``
