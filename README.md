@@ -25,6 +25,12 @@ git clone https://github.com/fanendrashelki/Book-Management.git
     ``
     npm install nodemon --save-dev
     ``
+- Start backend server with automatic restart
+
+  ``
+  npm start
+  ``
+  
 - Navigate to the client directory:
 
    ``
@@ -36,11 +42,11 @@ git clone https://github.com/fanendrashelki/Book-Management.git
    ``
   npm install
    ``
+  
 - Install react-hot-toast for toast notifications:
 
    ``
     npm install react-hot-toast
-
    ``
 
   - Install axios for making HTTP requests:
@@ -48,6 +54,11 @@ git clone https://github.com/fanendrashelki/Book-Management.git
     ``
     npm install axios
     ``
+
+    - Start frontend development server with hot reloading:
+      ``
+      npm run server
+      ``
 
 
 
