@@ -10,6 +10,7 @@ git clone https://github.com/fanendrashelki/Book-Management.git
   cd Book-Management
   ``
 - Navigate to the server directory:
+  
   ``
   cd server
   ``
@@ -18,6 +19,28 @@ git clone https://github.com/fanendrashelki/Book-Management.git
   ``
   npm install
   ``
+
+  - Install nodemon for automatic server restarts:
+    ``
+    npm install nodemon --save-dev
+    ``
+    - Navigate to the client directory:
+
+      ``
+      cd ../client
+      ``
+
+      - Install frontend dependencies:
+        ``
+        npm install
+
+        ``
+        - Install react-hot-toast for toast notifications:
+       
+        ``
+        npm install react-hot-toast
+
+        ``
 
 
 
