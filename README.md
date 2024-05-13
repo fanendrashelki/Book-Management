@@ -49,16 +49,16 @@ git clone https://github.com/fanendrashelki/Book-Management.git
     npm install react-hot-toast
    ``
 
-  - Install axios for making HTTP requests:
+- Install axios for making HTTP requests:
  
-    ``
-    npm install axios
-    ``
+  ``
+  npm install axios
+  ``
 
-    - Start frontend development server with hot reloading:
-      ``
-      npm run server
-      ``
+- Start frontend development server with hot reloading:
+  ``
+  npm run server
+  ``
 
 
 
