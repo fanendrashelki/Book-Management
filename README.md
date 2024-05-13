@@ -59,7 +59,7 @@ https://candid-starburst-9b13dc.netlify.app/
   npm install axios
   ``
 
-- Start frontend development server with hot reloading:
+- Start frontend development server :
 
   ``
   npm run server
