@@ -1,2 +1,2 @@
-const BASE_URL = "https://book-backend-1-v4ux.onrender.com/api";
+const BASE_URL = "http://localhost:8000/api/";
 export default BASE_URL;
