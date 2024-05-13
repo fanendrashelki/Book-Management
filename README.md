@@ -9,11 +9,11 @@ git clone https://github.com/fanendrashelki/Book-Management.git
   ``
   cd Book-Management
   ``
--Navigate to the server directory:
+- Navigate to the server directory:
   ``
   cd server
   ``
--Install backend dependencies:
+- Install backend dependencies:
   
   ``
   npm install
