@@ -1,0 +1,58 @@
+
+.table-wrapper {
+  background: #fff;
+  padding: 20px 25px;
+  margin: 30px 0;
+  border-radius: 3px; 
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.table-title {        
+padding-bottom: 15px;
+background: #0d6efd;
+color: #fff;
+padding: 16px 30px;
+margin: -20px -25px 10px;
+border-radius: 5px 5px 0 0;
+}
+.table-title h2 {
+margin: 5px 0 0;
+font-size: 24px;
+}
+table.table td .fa-pen-to-square {
+  color: #FFC107;
+  padding: 5px;
+}
+table.table td .fa-trash{
+  color: #F44336;
+  padding: 5px;
+}
+table.table td i {
+  font-size: 18px;
+}
+
+
+/* Style for the search input */
+.search-input {
+  padding: 8px 12px; 
+  font-size: 16px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  width: 100%; 
+  max-width: 400px; 
+}
+
+.search-input::placeholder {
+  color: #999; 
+  font-style: italic; 
+}
+
+
+.search-input:hover {
+  border-color: #666; 
+}
+
+/* Focus effect for the search input */
+.search-input:focus {
+  outline: none; 
+  border-color: #007bff;
+}
