@@ -1,5 +1,4 @@
-## Project URL
-https://candid-starburst-9b13dc.netlify.app/
+
 ## Installation
 
 - Clone Repository:
